@@ -9,7 +9,7 @@ CREATE TABLE products (
   item_name VARCHAR(100) NOT NULL,
   department_name VARCHAR(100) NOT NULL,
   price DECIMAL(7,2) NOT NULL,
-  stock INT NOT NULL,
+  stock INT NOT NULL
 );
 
 INSERT INTO products (item_name, department_name, price, stock) VALUES

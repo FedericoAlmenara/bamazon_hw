@@ -1,0 +1,25 @@
+{
+  "name": "bamazon_hw",
+  "version": "1.0.0",
+  "description": "Overview\r <br>\r This CLI app uses node and MySQL to connect to a \"marketplace\" with products. Using the CLI a user can purchase and see the quantity\r of each product.",
+  "main": "bamazonApp.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoAlmenara/bamazon_hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoAlmenara/bamazon_hw/issues"
+  },
+  "homepage": "https://github.com/FedericoAlmenara/bamazon_hw#readme"
+}

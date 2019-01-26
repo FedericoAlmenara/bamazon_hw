@@ -5,7 +5,7 @@ require("console.table");
 var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
-    user:"root",
+    user:"nico",
     password:"Badgerman4161",
     database: "bamazon_db"
 
